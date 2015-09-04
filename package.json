@@ -1,0 +1,26 @@
+{
+  "name": "santacruzjs.github.io",
+  "version": "1.0.0",
+  "description": "Santa Cruz Javascript github page",
+  "main": ".",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@chovy-github:santacruzjs/santacruzjs.github.io.git"
+  },
+  "keywords": [
+    "javascript",
+    "meetup",
+    "santa",
+    "cruz"
+  ],
+  "author": "Anthony Ettinger <anthony@chovy.com> (http://chovy.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-watch": "^4.3.5"
+  }
+}

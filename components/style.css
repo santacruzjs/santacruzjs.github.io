@@ -1,0 +1,23 @@
+html,
+html *,
+*:after,
+*:before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  background: #efefef;
+}
+main {
+  font-size: 1.6rem;
+  margin: 2rem 10%;
+}
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+}
